@@ -3,6 +3,10 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+## Igore Exercism files
+.exercism
+.editorconfig
+
 # dotenv files
 .env
 
